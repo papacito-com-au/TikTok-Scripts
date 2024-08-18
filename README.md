@@ -8,7 +8,7 @@ I am absolutely certain there are terms and conditions and/or community guidelin
 ### :warning: WARNING! Be mindful... :warning:
 >  You should NEVER blindly copy/paste scripts. Review each script, ensure they're not doing anything nefarious either intentionally or accidentally. If it appears fine, decide if it is right for you.
 
-### Bulk/Automated Unfollow Non-Followers on TikTok
+### [Bulk/Automated Unfollow Non-Followers on TikTok](https://github.com/papacito-com-au/TikTok-Scripts/blob/main/Unfollow%20Non-Followers.js)
 - `Purpose`: This script allows you to unfollow accounts that do not follow you back.
 - `Requirements`: A Computer with a Web Browser (Chrome or Firefox). This will not work on your phone.
 - `Features`: Has configurable random delays to simulate human-ish activity, automatic scrolling and a configurable whitelist.
